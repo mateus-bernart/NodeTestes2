@@ -1,0 +1,9 @@
+- O usuario deve possuir um nome, email e senha
+
+Cenário 1: A senha do usuário precisa ser criptografada quando for salva no banco de dados;
+
+Cenário 2: Não pode ser cadastrado um usuário com e-mail duplicado;
+
+Cenário 3: Ao cadastrar um usuário deve ser retornada uma mensagem informando que o cadastro foi realizado;
+
+Cenário 4: Ao cadastrar um usuário, validar o retorno das informações do usuário.
