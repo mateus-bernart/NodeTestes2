@@ -9,11 +9,13 @@ Livraria com sistema de cadastro e manejo de livros, autores,editoras e usuário
 
 ## Testes
 
-- Padrão Triple A.
+- Padrão Triple A (Arrange, Act, Assert)
+- TDD: Criar o teste, fazê-lo passar, refatorar.
 - Teste de Unidade (Caixa Branca)
 - Teste de Integração (através de requisições da API) (Caixa Preta)
 - Teste de banco de dados, inserindo um registro e depois verificando sua existência (previnindo possíveis erros em ambiente de produção)
 - Limpar a base de dados da API para evitar dados de testes em ambiente de produção;
+- Teste de envio de email
 
 ## Stack utilizada
 
